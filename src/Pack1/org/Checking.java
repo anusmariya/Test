@@ -6,4 +6,14 @@ public class Checking {
 		System.out.println("anushka");
 	}
 	
+	public static void main(String[] args) {
+		Checking c=new Checking();
+		c.Sysout();
+		
+		
+		System.out.println("Github Editing");
+		
+		
+	}
+	
 }
